@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harshul Sengar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshulsengar&label=Profile%20views&color=0e75b6&style=flat" alt="harshulsengar" /> </p>
 
-- 🌱 I’m currently learning **HTML , CSS , JAVASCRIPT , JAVA , DSA**
+- 🌱 I’m currently learning **SpringBoot and creating projects bsed on mern**
 
 - 📫 How to reach me **harshulsengar506@gmail.com**
 
