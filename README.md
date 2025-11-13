@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshulsengar&label=Profile%20views&color=0e75b6&style=flat" alt="harshulsengar" /> </p>
 
-- 🌱 I’m currently learning **SpringBoot and creating projects bsed on mern**
+- 🌱 I’m currently learning **SpringBoot and creating projects based on MERN**
 
 - 📫 How to reach me **harshulsengar506@gmail.com**
 
